@@ -19,3 +19,14 @@ body{
     display: grid;
     gap: 10px;
 }
+.transpose{
+    display: none;
+    margin: 30px;
+}
+p{
+    text-align: center;
+    border: 1px solid gray;
+}
+.input{
+    text-align: center;
+}
